@@ -1,6 +1,6 @@
 
 /**************************************************************** 
- * This class pops and pushes elements into the stack, and check if the stack is empty
+ * This class pops and pushes elements into the stack, and checks if the stack is empty
  * 
 I have utilized the ASCII to check for the symbols.
 
