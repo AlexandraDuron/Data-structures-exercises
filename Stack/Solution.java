@@ -51,14 +51,15 @@ public class Solution{
 				System.out.println("I've pushed a character");
 			}
 
-
+			//Pop an element if the secuence finds: [] , {} or () 
 			else if((stack.peek()==123 && solution.readFile().charAt(i)==125)||(stack.peek()==40&& solution.readFile().charAt(i)==41)||(stack.peek()==91 && solution.readFile().charAt(i)==93))
 
 			{
 				stack.pop();
 				System.out.println("Pop");
 			}
-
+			
+			// push an element if character is :  (, [ or {
 			else if(solution.readFile().charAt(i)==123 || solution.readFile().charAt(i)==40 || solution.readFile().charAt(i)==91)
 			{
 				stack.push(solution.readFile().charAt(i));
