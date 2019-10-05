@@ -33,7 +33,7 @@ public class test {
 		String fileName = "data.txt";
 		File file = new File(fileName);
 		Scanner in = new Scanner(file);
-		// make a deque (Still, it's not clear , why do we need to implement a deque??)
+		// make a deque (Still, it's not clear , why do we need to implement a deque???)
 		Deque deque = new ArrayDeque<>();
 		//HashSet doesn't allow duplicate members
 		HashSet<Integer> set = new HashSet<Integer>(); 
