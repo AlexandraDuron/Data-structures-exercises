@@ -1,4 +1,4 @@
-/*  Stack Brackets example
+/*  Stack Brackets Example
 
 A string containing only parentheses is balanced if the following is true: 1. if it is an empty string 2. if A and B are correct, 
 
