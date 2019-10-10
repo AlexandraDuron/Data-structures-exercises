@@ -9,3 +9,5 @@
 4. Build phone book amd retrieve data utlizing a HashMap
 
 5. Data-structures-exercises (In progress).
+
+6. Find the third-latest date in an array of data objects. Implementation of a TreeSet which utilizes a Comparator for sorting. 
