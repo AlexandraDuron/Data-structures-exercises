@@ -6,6 +6,6 @@
 
 3. Find unique pairs of data utilizing a HashSet.
 
-4. Build phone book a retrieve data utlizing a HashMap
+4. Build phone book amd retrieve data utlizing a HashMap
 
 5. Data-structures-exercises (In progress).
