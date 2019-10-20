@@ -1,4 +1,4 @@
-//This is a simple method to implement binary search
+//This is a simple method to show how binary search works. 
 
 import java.util.Arrays;
 import java.util.Scanner;
