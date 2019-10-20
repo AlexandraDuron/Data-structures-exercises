@@ -1,6 +1,6 @@
 # Data-structures-exercises
 
-1. Check for the presence of a number in an array utilizing binary search.
+1. Check for the presence of a number in an array utilizing binary search, with Arrays.binarySearch() method.
 
 2. Stack Brackets Example:  Given a string  "{}(", "({)}", "[[", "}{" etc. , determine if it is balanced or not.
 
@@ -11,3 +11,5 @@
 5. Data-structures-exercises (In progress).
 
 6. Find the third-latest date in an array of data objects. Implementation of a TreeSet which utilizes a Comparator for sorting. 
+
+7. A method to show the binary search process from scratch. 
